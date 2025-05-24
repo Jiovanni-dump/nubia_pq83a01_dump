@@ -1,0 +1,6 @@
+framework-res_common_rro_gen_ny_cn
+
+framework-res_common_rro_gen_ip_vg_cn
+
+framework-res_common_rro_gen_pro_cn
+

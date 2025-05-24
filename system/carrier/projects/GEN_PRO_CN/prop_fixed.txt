@@ -1,0 +1,5 @@
+persist.vendor.custom.variant.id=GEN_PRO_CN 
+ro.oem.key1=GEN_PRO_CN 
+ro.vendor.product.ztename=nubia Z60 Ultra摄影师版 
+ro.vendor.feature.ext_ver_suffix=_PRO
+
