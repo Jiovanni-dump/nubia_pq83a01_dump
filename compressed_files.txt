@@ -1,0 +1,8 @@
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+vendor/etc/dts/dts-eagle.lic.xz
+system_ext/partner-app/YunTing/YunTing.apk.xz
+system/priv-app/Gallery_Nubia_MFV/Gallery_Nubia_MFV.apk.xz
+modem.img.xz
+recovery.img.xz
+bootRE/boot.elf.xz

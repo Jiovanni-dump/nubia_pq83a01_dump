@@ -1,0 +1,17 @@
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/priv-app/GmsCore/GmsCore.apk
+vendor/etc/dts/dts-eagle.lic
+system_ext/partner-app/NubiaHuya/NubiaHuya.apk
+system_ext/partner-app/baidusearch/baidusearch.apk
+system_ext/partner-app/NubiaBaiduSearch/NubiaBaiduSearch.apk
+system_ext/partner-app/YunTing/YunTing.apk
+system_ext/preinstallapp/Weibo/Weibo.apk
+system/etc/faceclassifier/faceclassifier.dlc
+system/priv-app/Gallery_Nubia_MFV/Gallery_Nubia_MFV.apk
+system/priv-app/Nubia_PhotoEditor/Nubia_PhotoEditor.apk
+system/priv-app/NubiaCamera/NubiaCamera.apk
+system/priv-app/GameSpace/GameSpace.apk
+system/lib64/libzteFaceRecognitionModels.so
+modem.img
+recovery.img
+bootRE/boot.elf
