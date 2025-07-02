@@ -1,0 +1,14 @@
+# qssi_64-user 15 AQ3A.240812.002 20250405.110625 release-keys
+- manufacturer: nubia
+- platform: pineapple
+- codename: PQ83A01
+- flavor: qssi_64-user
+- release: 15
+- id: AQ3A.240812.002
+- incremental: 20250405.110625
+- tags: release-keys
+- fingerprint: nubia/CN_PQ83A01/PQ83A01:14/UKQ1.230917.001/20250405.111851:user/release-keys
+- is_ab: true
+- brand: nubia
+- branch: qssi_64-user-15-AQ3A.240812.002-20250405.110625-release-keys
+- repo: nubia_pq83a01_dump
