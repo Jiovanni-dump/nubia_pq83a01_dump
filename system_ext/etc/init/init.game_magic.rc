@@ -1,0 +1,8 @@
+#
+# Created by 10342472 on 2023/12/12.
+#
+on post-fs-data
+    mkdir /data/gamemagic 0755 system system encryption=None
+    mkdir /data/gamemagic/lib 0755 system system encryption=None
+    mkdir /data/gamemagic/lib64 0755 system system encryption=None
+    mkdir /data/gamemagic/config 0755 system system encryption=None
