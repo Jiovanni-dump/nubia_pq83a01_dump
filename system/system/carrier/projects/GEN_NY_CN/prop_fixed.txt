@@ -1,0 +1,4 @@
+persist.vendor.custom.variant.id=GEN_NY_CN 
+ro.oem.key1=GEN_NY_CN 
+ro.vendor.feature.ext_ver_suffix=_NY
+
